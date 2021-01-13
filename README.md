@@ -1,4 +1,9 @@
 # OpenTheremin_V3_Shield
+This fork attempts to reroute the OpenTheremin board, so that it is easier to mill yourself o a cnc.
+*Suzanne Hervouët for apprentiLAB, Conservatoire national des arts et métiers, France*
+
+Original README by GaudiLabs below (thanks so much for the awesome work !)
+___
 Open Source Theremin Instrument
 
 Schematics, printed circuit board (PCB) design, bill of materials (BOM) for the Open.Theremin.V3 arduino shield.
